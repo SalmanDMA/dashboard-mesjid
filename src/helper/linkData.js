@@ -1,0 +1,10 @@
+export const linkHome = '/';
+export const linkLogin = '/login';
+export const linkPengajian = '/pengajian';
+export const linkPengajianAdd = '/pengajian/add';
+export const linkPengajianEdit = '/pengajian/edit/';
+export const linkEvent = '/event';
+export const linkEventAdd = '/event/add';
+export const linkEventEdit = '/event/edit/';
+export const linkSignOut = '/login';
+export const linkErrorPage = '/*';
